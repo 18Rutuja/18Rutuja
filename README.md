@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @18Rutuja
+- 👋 Hi, I’m Rutuja Rathod and @18Rutuja is my github profile name.
 - 👀 I’m interested in web development, coding
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, Bootstrap, etc
   
