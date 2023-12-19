@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Rutuja Rathod and @18Rutuja is my github profile name.
-- 👀 I’m interested in web development, coding
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, Bootstrap, etc
+- 👋 Hi, I’m Rutuja Rathod Third year student at Shri Guru Gobind Singhji Institute of Engineering and Technology (SGGSIET), Nanded in Electronics and Telecommunication Engineering.
+- 👀 I’m interested in web development, coding and have knowledge about HTML,CSS, BOOTSTRAP, JS, PYTHON, CPP
+- 🌱 I’m currently learning ReactJS, DSA in CPP etc
   
 
   
