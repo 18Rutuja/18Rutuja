@@ -1,10 +1,8 @@
-
+![Bottom_up](https://github.com/18Rutuja/18Rutuja/assets/127573564/5f553106-1ebb-4efa-9cab-16ece9289c2c)
 <!---
 18Rutuja/18Rutuja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-![68747470733a2f2f616c65786d617274696e2e636c6f75642f6173736574732f696d616765732f626c6f672f626c6f67312f72656163742d6a732d62616e6e65722e706e67](https://github.com/18Rutuja/18Rutuja/assets/127573564/73fa6c25-89e9-4aac-8f6a-fc8864cc6074)
 
 
 <h1 align="center">Hi 👋 , I'm Rutuja Rathod</h1>
