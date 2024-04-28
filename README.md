@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **ReactJs, NodeJs, MongoDB,Machine Learning, courses..**
 
-- 💬 Ask me about **HTML,CSS,JS,CPP**
+- 💬 Ask me about **HTML, CSS, JS, CPP, ReactJs**
 
 - 📫 How to reach me **rathodrutuja21@gmail.com**
 
